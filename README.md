@@ -1,7 +1,7 @@
-# PhysicsSimulator
+# Physics Simulator
 This project was completed as a Final Project in Grade 12-Introduction to Computer Science with a few lads 
 
-Built by
+## Built by
 Chen Chen, Randy Bornstein, Ryan Steiner, me
 
 Mrs.Neli Grigorova
